@@ -11,7 +11,7 @@
 * [**Fair-count**](https://felixpm.alwaysdata.net/index.php?route=login) — Site de gestion des dépenses communes entre amis
 * [**The_League**] — Site vitrine dynamique d'un jeu vidéo (détails des joueurs, des teams et leurs performances, calendrier des matchs).
 * [**Site_vitrine_cafe**](https://pierresoreau.github.io/site_vitrine_cafe/) — Site vitrine d'un bar/café
-* [**Sokoban**] (https://github.com/PierreSoreau/Sokoban.git) — Jeu d'arcade 
+* [**Sokoban**](https://github.com/PierreSoreau/Sokoban.git) — Jeu d'arcade 
 
 ## 🛠️ Stacks Techniques & Compétences
 
