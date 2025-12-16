@@ -1,10 +1,10 @@
 ## Bonjour je m'appelle Pierre Soreau
 
-## Qui suis-je
+## Qui suis-je?
 
-* ** Statut :** Étudiant Développeur Fullstack, école Coda Orléans.
-* ** Parcours :** En reconversion professionnelle après 5 ans en tant que Responsable Qualité Adjoint en Agroalimentaire.
-* **✨ Objectif :** Allier mon savoir-être acquis à l'usine et mon savoir-faire technique informatique pour devenir le développeur de demain.
+* **Statut :** Étudiant Développeur Fullstack, école Coda Orléans.
+* **Parcours :** En reconversion professionnelle après 5 ans en tant que Responsable Qualité Adjoint en Agroalimentaire.
+* **🎯 Objectif :** Allier mon savoir-être acquis à l'usine et mon savoir-faire technique informatique pour devenir le développeur de demain.
 
 ## 🚀 Mes projets 
 
