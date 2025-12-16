@@ -20,7 +20,7 @@
 * **Frontend :** [HTML5, CSS3]
 * **Backend :** [Php,C]
 * **Bases de données :** [MySQL]
-* **DevOps/Autres :** [Git, Docker, Github]
+* **DevOps/Autres :** [Git, Github, Docker]
 
 <h2>📊 Mes statistiques GitHub</h2>
 
