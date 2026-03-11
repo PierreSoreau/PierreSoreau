@@ -18,10 +18,10 @@
 
 <img src="https://skillicons.dev/icons?i=php,c,java"/><img src="https://skillicons.dev/icons?i=html,css,javascript"/><img src="https://skillicons.dev/icons?i=mysql,postgresql" /><img src="https://skillicons.dev/icons?i=wordpress,git,github,docker,supabase,linux,vite&v=1"/><img src="https://skillicons.dev/icons?i=figma,twig"/>
 
-* **Frontend :** [HTML5, CSS3]
-* **Backend :** [Php,C]
-* **Bases de données :** [MySQL]
-* **DevOps/Autres :** [Git, Github, Docker]
+* **Frontend :** [HTML5, CSS3, Javascript]
+* **Backend :** [PHP 8, C, Java 21 ]
+* **Bases de données :** [MySQL, PostgreSQL]
+* **Outils:** [Git, Github, Docker, Linux(Ubuntu,bash), Supabase, Vite.js, Figma, Twig]
 
 <h2>📊 Mes statistiques GitHub</h2>
 
