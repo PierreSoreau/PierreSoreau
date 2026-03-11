@@ -16,7 +16,7 @@
 
 ## 🛠️ Stacks Techniques & Compétences
 
-<img src="https://skillicons.dev/icons?i=php,c, java"/><img src="https://skillicons.dev/icons?i=html,css, javascript"/><img src="https://skillicons.dev/icons?i=mysql,postgresql" /><img src="https://skillicons.dev/icons?i=wordpress,git,github,docker,supabase,linux,vite.js" />
+<img src="https://skillicons.dev/icons?i=php,c, java"/><img src="https://skillicons.dev/icons?i=html,css, javascript"/><img src="https://skillicons.dev/icons?i=mysql,postgresql" /><img src="https://skillicons.dev/icons?i=wordpress,git,github,docker,supabase,linux,vite" />
 
 * **Frontend :** [HTML5, CSS3]
 * **Backend :** [Php,C]
