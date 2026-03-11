@@ -8,7 +8,7 @@
 
 ## 🚀 Mes projets 
 
-* [**machineafish**](https://machineafish.fr) — Site pour apprendre la pêche aux leurres en eau douce
+* [**Machineafish**](https://machineafish.fr) — Site pour apprendre la pêche aux leurres en eau douce
 * [**Duckpropulsor**](https://github.com/Eliottr45/DuckPropulsor) — Jeu d'arcade inspiré de jetpack joyride
 * [**Mon Portfolio**](https://github.com/PierreSoreau/portfolio-wp-pierre-soreau) — Un thème WordPress pour Portfolio sur mesure modifiable même sans savoir coder
 * [**Fair-count**](https://felixpm.alwaysdata.net/index.php?route=login) — Site de gestion des dépenses communes entre amis
