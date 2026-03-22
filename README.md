@@ -8,7 +8,9 @@
 
 ## 🚀 Mes projets 
 
-* [**Machineafish**](https://machineafish.fr) — Site pour apprendre la pêche aux leurres en eau douce.    
+* [**Machineafish**](https://machineafish.fr) — Site pour apprendre la pêche aux leurres en eau douce.
+
+      
   -L'encyclopédie des poissons : Morphologie, habitats, alimentation... les carnassiers n'auront plus de secrets pour vous.  
   -Un générateur de matériel : Un questionnaire personnalisé qui vous recommande la canne, le moulinet et les leurres exacts en fonction de votre lieu de pêche et de votre cible de poisson.  
   -Un espace pratique : Un book de tutoriels vidéos pour maîtriser la technique.  
