@@ -12,6 +12,11 @@
     * L'encyclopédie des poissons : Morphologie, habitats, alimentation... les carnassiers n'auront plus de secrets pour vous.
     * Un générateur de matériel : Un questionnaire personnalisé qui vous recommande la canne, le moulinet et les leurres exacts en fonction de votre lieu de pêche et de votre cible de poisson.
     * Un espace pratique : Un book de tutoriels vidéos pour maîtriser la technique.
+  
+* [**Pokemon Showdown**](https://github.com/ADRO4545/Pokemon-showdown-Java)— Jeu simulateur de combat Pokémon au tour par tour.
+ * Jeu développé en **Java** avec l'interface graphique **JavaFX**. Il a été réalisé dans le cadre du module Java de 1ère année à l'école Coda.
+ * L'objectif principal est de modéliser les mécaniques complexes des combats Pokémon en appliquant rigoureusement les concepts de la **Programmation Orientée Objet (POO)**.
+ * Le joueur doit pouvoir constituer une équipe et affronter un adversaire contrôlé par l'ordinateur.
 
 * [**Duckpropulsor**](https://github.com/Eliottr45/DuckPropulsor) — Jeu d'arcade inspiré de jetpack joyride
     * Un canard qui est propulsé par un jetpack. Son but est de parcourir le plus de distance sans se heurter à des obstacles, tout en recueillant le plus de pièces possible sur son chemin.
